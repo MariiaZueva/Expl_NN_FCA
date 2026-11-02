@@ -1,3 +1,4 @@
+# Project "Conceptual Views for Global Interpretation of Neural Networks"
 A big research-oriented homework for the **Ordered Sets for Data Analysis** course.
 
 This project merges **neural networks** and **Formal Concept Analysis (FCA)** — but in the opposite direction from Neural FCA. Rather than building an interpretable network from a lattice, we take an arbitrary pretrained network and analyze it **post-hoc, globally**: activations of the last hidden layer and weights of the output layer are turned into two FCA contexts, from which lattices, symbolic rules, and architecture-similarity measures are derived.
