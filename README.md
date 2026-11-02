@@ -6,6 +6,7 @@ This project merges **neural networks** and **Formal Concept Analysis (FCA)** â€
 Pay attention on helpful resources with code provided:
 - Libraries with FCA methods implemented:
 	 https://github.com/EgorDudyrev/FCApy
+  
 	 https://github.com/smartFCA/caspailleur
 - Base paper: Hirth, J., Hanika, T. *Conceptual Views of Neural Networks: A Framework for Neuro-Symbolic Analysis* (2025).
 
